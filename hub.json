@@ -1,0 +1,11 @@
+{
+  "schema": "hub.json (draft)",
+  "name": "SSH Key Generator",
+  "what_it_does": "Generate an Ed25519 SSH key pair in your browser: the private key never leaves your device, no tracking.",
+  "owner": "AgentiCCells",
+  "team": "factory@AgentiCCells.dinis, instructed by Dinis Cruz",
+  "licence": { "code": "Apache-2.0", "text": "CC BY 4.0" },
+  "repository": "https://github.com/AgentiCCells/AgentiCCells__Site__SSH-Keygen",
+  "live_address": "https://ssh-keygen.agenticcells.site",
+  "version_from": "https://ssh-keygen.agenticcells.site/version.json"
+}
